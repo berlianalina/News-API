@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News-API</string>
+    <string name="app_info">Simple News Reader Apps based on News API\n\nDevelop by: Berliana Febrianti Putri H
+        \n\nSebagai syarat test PKL Android Developer di PT GITS Indonesia</string>
+    <string name="app_library">- Android Support\n- Android Cardview\n- Android Recyclerview
+        \n- Android Design\n- com.flaviofaria:kenburnsview\n- com.squareup.picasso:picasso\n-
+        com.squareup.retrofit2:retrofit\n- com.jakewharton:butterknife</string>
+</resources>
